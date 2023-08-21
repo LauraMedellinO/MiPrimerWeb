@@ -1,0 +1,14 @@
+.flex-center{
+    display: flex;
+    justify-content: end;
+    align-items:end;
+}
+body{
+    width: 900px;
+    height: 200px;
+    background: url(sven1.png);
+    background-repeat: no-repeat;
+    background-size:25%;
+   
+}
+
